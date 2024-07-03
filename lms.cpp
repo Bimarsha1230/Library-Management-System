@@ -106,7 +106,7 @@ int main() {
                 library.searchBook(title);
                 break;
             case 4:
-                cout << "Exiting program..." << endl;
+                cout << "Program Exited Successfully." << endl;
                 break;
             default:
                 cout << "Invalid choice. Please try again." << endl;
